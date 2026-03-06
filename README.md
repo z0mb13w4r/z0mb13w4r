@@ -2,7 +2,7 @@
 
 I'm a malware researcher, ethical hacker and embedded software engineer who spends his days hunting n-days in safety-critical systems.
 
-FUN FACT: I'm on the TryHackMe UK Wall of Fame!
+FUN FACT: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!
 
 ### [objtools-ng](https://github.com/z0mb13w4r/objtools)
 
