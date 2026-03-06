@@ -2,6 +2,8 @@
 
 I'm a malware researcher, ethical hacker and embedded software engineer who spends his days hunting n-days in safety-critical systems.
 
+FUN FACT: I'm on the TryHackMe UK Wall of Fame!
+
 ### [objtools-ng](https://github.com/z0mb13w4r/objtools)
 
 These tools were originally designed as part of a research project on industrial control systems (ICSs) and the Internet of Things (IoT). A drop-in replacement for readelf, objcopy, and objdump that utilises the Capstone disassembly framework. Then the project grew into a collection of tools for malware and binary analysis that support x86, ARM, ARM Thumb, AARCH64, MIPS, and RISC-V architectures.
