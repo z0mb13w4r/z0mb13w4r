@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Kyle AKA z0mb13w4r
 
-<!--
-**z0mb13w4r/z0mb13w4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a malware researcher, ethical hacker and embedded software engineer who spends his days hunting n-days in safety-critical systems.
 
-Here are some ideas to get you started:
+### [objtools-ng](https://github.com/z0mb13w4r/objtools)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These tools were originally designed as a research project for industrial control systems (ICSs) and the Internet of Things (IoT). A drop-in replacement for readelf, objcopy, and objdump that utilises the Capstone disassembly framework. Then the project began to grow into a collection of tools for malware and binary analysis supporting x86, ARM, ARM Thumb, AARCH64, MIPS and RISC-V architectures.
+
+### [malware-samples](https://github.com/z0mb13w4r/malware-samples)
+
+A collection of live malware for education and investigation purposes only for professionals who are interested in malware analysis, prevention and containment.
+
+### [code-samples](https://github.com/z0mb13w4r/code-samples)
+
+A collection of source code snippets that can be compiled in different ways to practice binary analysis.
