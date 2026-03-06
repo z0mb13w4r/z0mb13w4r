@@ -16,7 +16,7 @@ A collection of live malware for education and investigation purposes only for p
 
 A collection of source code snippets that can be compiled in different ways to practice binary analysis.
 
-## [java-tutorials](https://github.com/z0mb13w4r/java-tutorials)
+### [java-tutorials](https://github.com/z0mb13w4r/java-tutorials)
 
 A collection of examples to help a person learn the basics of Java.
 
