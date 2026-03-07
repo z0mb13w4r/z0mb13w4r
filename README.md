@@ -3,6 +3,7 @@
 I'm a malware researcher, ethical hacker and embedded software engineer who spends his days hunting n-days in safety-critical systems and developing malware analysis tools.
 
 FUN FACT #1: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!
+
 FUN FACT #2: The Lord of the Rings is my favourite book and movie trilogy.
 
 ### [objtools-ng](https://github.com/z0mb13w4r/objtools)
