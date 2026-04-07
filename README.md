@@ -2,13 +2,15 @@
 
 I'm a malware researcher, ethical hacker and embedded software engineer who spends his days hunting n-days in safety-critical systems and developing malware analysis tools.
 
+I'm enthusiastic about securing safety-critical systems through the development of binary analysis tools to analyse suspected malicious or safety-critical software and verifying the system's operational integrity, network analysis, specifically in the energy and transportation sectors, industrial control systems (ICS) and Internet of Things (IoT).
+
 FUN FACT #1: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!
 
 FUN FACT #2: The Lord of the Rings is my favourite book and movie trilogy.
 
 ### [objtools-ng](https://github.com/z0mb13w4r/objtools)
 
-These tools were originally designed as a research project for industrial control systems (ICSs) and the Internet of Things (IoT). A drop-in replacement for readelf, objcopy, and objdump that utilises the Capstone disassembly framework. The project then grew into a collection of tools for malware and binary analysis supporting x86, ARM, ARM Thumb, AARCH64, MIPS and RISC-V architectures.
+These tools were originally designed as a research project for industrial control systems (ICS) and the Internet of Things (IoT). A drop-in replacement for readelf, objcopy, and objdump that utilises the Capstone disassembly framework. The project then grew into a collection of tools for malware and binary analysis supporting x86, ARM, ARM Thumb, AARCH64, MIPS and RISC-V architectures.
 
 This suite of tools was inspired by a problem I encountered while comparing two subtly different executables that were compiled from the same source code. Also, having binaries built with different cross-compilers raises the question of which flavour of readelf or objdump to use? After I reached 12 and started thinking about a simple solution that could be automated and didn't require a $ 7,000-a-year software license.
 
