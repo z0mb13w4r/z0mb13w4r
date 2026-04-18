@@ -4,7 +4,7 @@ I'm a malware researcher, ethical hacker, security researcher and embedded softw
 
 I'm enthusiastic about securing safety-critical systems through the development of binary analysis tools to analyse suspected malicious or safety-critical software and verifying the system's operational integrity, network analysis, specifically in the energy and transportation sectors, industrial control systems (ICS) and Internet of Things (IoT).
 
-FUN FACT #1: My hacker handle is z0mb13w4r.
+FUN FACT #1: I'm z0mb13w4r.
 
 FUN FACT #2: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!
 
