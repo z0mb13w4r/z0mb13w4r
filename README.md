@@ -1,12 +1,14 @@
 ## Hi, I'm Kyle
 
-I'm a malware researcher, ethical hacker and embedded software engineer who spends his days hunting n-days in safety-critical systems and developing malware analysis tools.
+I'm a malware researcher, ethical hacker, security researcher and embedded software engineer who spends his days hunting n-days in safety-critical systems and developing malware analysis tools.
 
 I'm enthusiastic about securing safety-critical systems through the development of binary analysis tools to analyse suspected malicious or safety-critical software and verifying the system's operational integrity, network analysis, specifically in the energy and transportation sectors, industrial control systems (ICS) and Internet of Things (IoT).
 
-FUN FACT #1: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!
+FUN FACT #1: My hacker handle is z0mb13w4r.
 
-FUN FACT #2: The Lord of the Rings is my favourite book and movie trilogy.
+FUN FACT #2: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!
+
+FUN FACT #3: The Lord of the Rings is my favourite book and movie trilogy.
 
 ### [objtools-ng](https://github.com/z0mb13w4r/objtools)
 
