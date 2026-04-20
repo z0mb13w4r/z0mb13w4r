@@ -20,6 +20,10 @@ This suite of tools was inspired by a problem I encountered while comparing two 
 
 A collection of live malware for education and investigation purposes only for professionals who are interested in malware analysis, prevention and containment.
 
+### [yara-rules](https://github.com/z0mb13w4r/yara-rules)
+
+A collection of YARA rules to identify and classify malware families. They act as a "swiss knife" for researchers, facilitating static analysis to detect specific malware variants through meta, string, and condition sections.
+
 ### [code-samples](https://github.com/z0mb13w4r/code-samples)
 
 A collection of source code snippets that can be compiled in different ways to practice binary analysis.
