@@ -12,7 +12,7 @@ FUN FACT #3: The Lord of the Rings is my favourite book and movie trilogy.
 
 ### [objtools-ng](https://github.com/z0mb13w4r/objtools)
 
-These tools were originally designed as a research project for industrial control systems (ICS) and the Internet of Things (IoT). A drop-in replacement for readelf, objcopy, and objdump that utilises the Capstone disassembly framework. The project then grew into a collection of tools for malware and binary analysis supporting x86, ARM, ARM Thumb, AARCH64, MIPS and RISC-V architectures.
+These tools were originally designed as a research project for industrial control systems (ICS) and the Internet of Things (IoT). A drop-in replacement for readelf, objcopy, and objdump that utilises the Capstone disassembly framework. The project then grew into a collection of tools for malware and binary analysis supporting x86, x86-64, ARM, ARM Thumb, AARCH64, MIPS and RISC-V architectures.
 
 This suite of tools was inspired by a problem I encountered while comparing two subtly different executables that were compiled from the same source code. Also, having binaries built with different cross-compilers raises the question of which flavour of readelf or objdump to use? After I reached 12 and started thinking about a simple solution that could be automated and didn't require a $ 7,000-a-year software license.
 
@@ -26,7 +26,7 @@ A collection of YARA rules to identify and classify malware families. They act a
 
 ### [code-samples](https://github.com/z0mb13w4r/code-samples)
 
-A collection of source code snippets that can be compiled in different ways to practice binary analysis.
+This is collection source-code snippets that can be compiled as ELF (Executable and Linkable Format) format, PE (Portable Executable) format, x86, ARM, ARM Thumb, AARCH64, MIPS and RISC-V assembly language to practice binary analysis.
 
 ### [java-tutorials](https://github.com/z0mb13w4r/java-tutorials)
 
