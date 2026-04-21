@@ -26,7 +26,7 @@ A collection of YARA rules to identify and classify malware families. They act a
 
 ### [code-samples](https://github.com/z0mb13w4r/code-samples)
 
-This is collection source-code snippets that can be compiled as ELF (Executable and Linkable Format) format, PE (Portable Executable) format, x86, ARM, ARM Thumb, AARCH64, MIPS and RISC-V assembly language to practice binary analysis.
+This is collection source-code snippets that can be compiled as ELF (Executable and Linkable Format) format, PE (Portable Executable) format, x86, x86-64, ARM, ARM Thumb, AARCH64, MIPS and RISC-V assembly language to practice binary analysis.
 
 ### [java-tutorials](https://github.com/z0mb13w4r/java-tutorials)
 
