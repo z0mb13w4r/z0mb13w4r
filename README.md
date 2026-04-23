@@ -22,7 +22,7 @@ A collection of live malware for education and investigation purposes only for p
 
 ### [yara-rules](https://github.com/z0mb13w4r/yara-rules)
 
-A collection of YARA rules to identify and classify malware families. They act as a "swiss knife" for researchers, facilitating static analysis to detect specific malware variants through meta, string, and condition sections.
+A collection of YARA rules to identify and classify malware families. They act as a "swiss knife" for security researchers, facilitating static analysis to detect specific malware variants through meta, string, and condition sections.
 
 ### [code-samples](https://github.com/z0mb13w4r/code-samples)
 
