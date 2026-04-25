@@ -4,11 +4,17 @@ I'm a malware researcher, ethical hacker, security researcher and embedded softw
 
 I'm enthusiastic about securing safety-critical systems through the development of binary analysis tools to analyse suspected malicious or safety-critical software and verifying the system's operational integrity, network analysis, specifically in the energy and transportation sectors, industrial control systems (ICS), the Internet of Things (IoT) and Operational Technology (OT).
 
-FUN FACT #1: I'm z0mb13w4r [zom-bee wawr].
+FUN FACT #1: I'm z0mb13w4r [zom-bee wawr].  
+FUN FACT #2: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!  
+FUN FACT #3: The Lord of the Rings is my favourite books and movie trilogy.  
 
-FUN FACT #2: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!
+[Sign up now for my free security reports, advice and important news!](https://newsletter.uber-techie.co.uk/)
 
-FUN FACT #3: The Lord of the Rings is my favourite books and movie trilogy.
+### Support & Sponsorship ###
+
+If you find this project useful and would like to keep it maintained, with new features and a regular release cycle or want to support my research. Then, you can sponsor me at [PayPal](https://www.paypal.com/ncp/payment/2DAZRCQM7MDFG), or you can buy me a coffee at [PayPal](https://www.paypal.com/ncp/payment/L6UQHUDXKSHTC). I will be really thankful for anything, even if it is a coffee, because that helps me a lot to know that you care:)
+
+If you require a service contract that includes: email support, technical help, support tickets, prioritised bug fixes with immediate release. Drop me an email: enquiries@uber-techie.co.uk
 
 ### [objtools-ng](https://github.com/z0mb13w4r/objtools)
 
@@ -31,10 +37,4 @@ This is collection source-code snippets that can be compiled as ELF (Executable 
 ### [java-tutorials](https://github.com/z0mb13w4r/java-tutorials)
 
 A collection of examples to help a person learn the basics of Java.
-
-### Support & Sponsorship ###
-
-If you find this project useful and would like to keep it maintained, with new features and a regular release cycle or want to support my research. Then, you can sponsor me at [PayPal](https://www.paypal.com/ncp/payment/2DAZRCQM7MDFG), or you can buy me a coffee at [PayPal](https://www.paypal.com/ncp/payment/L6UQHUDXKSHTC). I will be really thankful for anything, even if it is a coffee, because that helps me a lot to know that you care:)
-
-If you require a service contract that includes: email support, technical help, support tickets, prioritised bug fixes with immediate release. Drop me an email: enquiries@uber-techie.co.uk
 
