@@ -16,7 +16,7 @@ If you find this project useful and would like to keep it maintained, with new f
 
 If you require a service contract that includes: email support, technical help, support tickets, prioritised bug fixes with immediate release. Drop me an email: enquiries@uber-techie.co.uk
 
-### [objtools-ng](https://github.com/z0mb13w4r/objtools)
+### [objtools-ng v1.4](https://github.com/z0mb13w4r/objtools)
 
 These tools were originally designed as a research project for industrial control systems (ICS) and the Internet of Things (IoT). A drop-in replacement for readelf, objcopy, and objdump that utilises the Capstone disassembly framework. The project then grew into a collection of tools for malware and binary analysis supporting x86, x86-64, ARM, ARM Thumb, AARCH64, MIPS and RISC-V architectures.
 
