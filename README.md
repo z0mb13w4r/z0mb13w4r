@@ -8,7 +8,7 @@ FUN FACT #1: I'm z0mb13w4r [zom-bee wawr].
 FUN FACT #2: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!  
 FUN FACT #3: The Lord of the Rings is my favourite books and movie trilogy.  
 
-[Sign up now for my free security reports, advice and important news!](https://newsletter.uber-techie.co.uk/)
+[Sign up now for my free security reports, advice, important news and find out what I wish they taught in university!](https://newsletter.uber-techie.co.uk/)
 
 ### Support & Sponsorship ###
 
