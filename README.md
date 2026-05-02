@@ -20,21 +20,21 @@ If you require a service contract that includes: email support, technical help, 
 
 These tools were originally designed as a research project for industrial control systems (ICS) and the Internet of Things (IoT). A drop-in replacement for readelf, objcopy, and objdump that utilises the Capstone disassembly framework. The project then grew into a collection of tools for malware and binary analysis supporting x86, x86-64, ARM, ARM Thumb, AARCH64, MIPS and RISC-V architectures.
 
-This suite of tools was inspired by a problem I encountered while comparing two subtly different executables that were compiled from the same source code. Also, having binaries built with different cross-compilers raises the question of which flavour of readelf or objdump to use? After I reached 12 and started thinking about a simple solution that could be automated and didn't require a $ 7,000-a-year software license.
+This suite of tools was inspired by a problem I encountered while comparing two subtly different executables that were compiled from the same source code. Also, having binaries built with different cross-compilers raises the question of which flavour of readelf or objdump to use? After I reached 12 and started thinking about a simple solution that could be automated and didn't require a $ 7,000-a-year software license. [READ MORE...](https://github.com/z0mb13w4r/objtools)
 
 ### [malware-samples](https://github.com/z0mb13w4r/malware-samples)
 
-A collection of live malware for education and investigation purposes only for professionals who are interested in malware analysis, prevention and containment.
+A collection of live malware for education and investigation purposes only for professionals who are interested in malware analysis, prevention and containment. [READ MORE...](https://github.com/z0mb13w4r/malware-samples)
 
 ### [yara-rules](https://github.com/z0mb13w4r/yara-rules)
 
-A collection of YARA rules to identify and classify malware families. They act as a "swiss knife" for security researchers, facilitating static analysis to detect specific malware variants through meta, string, and condition sections.
+A collection of YARA rules to identify and classify malware families. They act as a "swiss knife" for security researchers, facilitating static analysis to detect specific malware variants through meta, string, and condition sections. [READ MORE...](https://github.com/z0mb13w4r/yara-rules)
 
 ### [code-samples](https://github.com/z0mb13w4r/code-samples)
 
-This is collection source-code snippets that can be compiled as ELF (Executable and Linkable Format) format, PE (Portable Executable) format, x86, x86-64, ARM, ARM Thumb, AARCH64, MIPS and RISC-V assembly language to practice binary analysis.
+This is collection source-code snippets that can be compiled as ELF (Executable and Linkable Format) format, PE (Portable Executable) format, x86, x86-64, ARM, ARM Thumb, AARCH64, MIPS and RISC-V assembly language to practice binary analysis. [READ MORE...](https://github.com/z0mb13w4r/code-samples)
 
 ### [java-tutorials](https://github.com/z0mb13w4r/java-tutorials)
 
-A collection of examples to help a person learn the basics of Java.
+A collection of examples to help a person learn the basics of Java. [READ MORE...](https://github.com/z0mb13w4r/java-tutorials)
 
