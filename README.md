@@ -1,8 +1,6 @@
 ## Hi, I'm Kyle
 
-I'm a malware researcher, ethical hacker, security researcher and embedded software engineer who spends his days hunting n-days in safety-critical systems and developing malware analysis tools.
-
-I'm enthusiastic about securing safety-critical systems through the development of binary analysis tools to analyse suspected malicious or safety-critical software and verifying the system's operational integrity, network analysis, specifically in the energy and transportation sectors, industrial control systems (ICS), the Internet of Things (IoT) and Operational Technology (OT).
+I'm a security researcher and embedded software engineer who spends his days hunting n-days in safety-critical systems and developing binary analysis tools. I help hobbyists, students, ethical hackers and companies with identifying security flaws or reverse-engineering smart devices and embedded systems so they can secure or integrate these devices without the need for expensive equipment and licenses or extensive training and documentation.
 
 FUN FACT #1: I'm z0mb13w4r [zom-bee wawr].  
 FUN FACT #2: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!  
