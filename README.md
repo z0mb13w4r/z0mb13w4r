@@ -1,6 +1,6 @@
 ## Hi, I'm Kyle
 
-I'm a security researcher and embedded software engineer who spends his days hunting n-days in safety-critical systems and developing binary analysis tools. I help hobbyists, students, ethical hackers, and companies identify security flaws or reverse-engineer smart devices and embedded systems so they can secure or integrate these devices without expensive equipment, licenses, or extensive training and documentation.
+I'm a vulnerability security researcher and embedded software engineer who spends his days hunting n-days in safety-critical systems and developing binary analysis tools. I help hobbyists, students, ethical hackers, and companies identify security flaws or reverse-engineer smart devices and embedded systems so they can secure or integrate these devices without expensive equipment, licenses, or extensive training and documentation.
 
 FUN FACT #1: I'm z0mb13w4r [zom-bee wawr].  
 FUN FACT #2: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!  
