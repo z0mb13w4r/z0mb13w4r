@@ -16,7 +16,7 @@ If you require a service contract that includes: email support, technical help, 
 
 ### [objtools-ng v1.7](https://github.com/z0mb13w4r/objtools)
 
-These tools were originally designed as a research project for industrial control systems (ICS) and the Internet of Things (IoT). A drop-in replacement for readelf, objcopy, and objdump that utilises the Capstone disassembly framework. The project then grew into a collection of tools for malware and binary analysis supporting x86, x86-64, ARM, ARM Thumb, AARCH64, MIPS and RISC-V architectures.
+These tools were originally designed as a research project for industrial control systems (ICS) and the Internet of Things (IoT). A drop-in replacement for readelf, objcopy, and objdump that utilises the Capstone disassembly framework. The project then grew into a collection of tools for malware, binary and firmware analysis supporting x86, x86-64, ARM, ARM Thumb, AARCH64, MIPS and RISC-V architectures.
 
 This suite of tools was inspired by a problem I encountered while comparing two subtly different executables that were compiled from the same source code. Also, having binaries built with different cross-compilers raises the question of which flavour of readelf or objdump to use? I started thinking about a simple solution that could be automated and didn't require a $ 7,000-a-year software license.
 
