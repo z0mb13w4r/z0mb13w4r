@@ -21,8 +21,10 @@ These tools were originally designed as a research project for industrial contro
 This suite of tools was inspired by a problem I encountered while comparing two subtly different executables that were compiled from the same source code. Also, having binaries built with different cross-compilers raises the question of which flavour of readelf or objdump to use? I started thinking about a simple solution that could be automated and didn't require a $ 7,000-a-year software license.
 
 These problems are solved by [READ MORE...](https://github.com/z0mb13w4r/objtools):
+
 1. The **Heuristic Assembly Language Analysis Engine (HALAE)**, which converts x86-64, ARM, MIPS or RISC-V assembly language into an Intermediate Language (IL) for comparison and analysis.
-3. Tools that deploy and upgrade **REMnux: A Linux Toolkit for Malware Analysis**.
+2. Tools that deploy **REMnux: A Linux Toolkit for Malware Analysis** and upgrade with my favourite tools that I use for vulnerability security research and malware analsis.
+3. Tools that automate **Privilege Escalation**.
 4. Tools that automate **Firmware Analysis**.
 
 ### [malware-samples](https://github.com/z0mb13w4r/malware-samples)
