@@ -19,16 +19,16 @@ If you require a service contract that includes: email support, technical help, 
 
 These tools were originally designed as a research project for industrial control systems (ICS) and the Internet of Things (IoT). A drop-in replacement for readelf, objcopy, and objdump that utilises the Capstone disassembly framework. The project then grew into a collection of tools for malware, binary and firmware analysis supporting x86, x86-64, ARM, ARM Thumb, AARCH64, MIPS and RISC-V architectures.
 
-This suite of tools was inspired by a problem I encountered while comparing two subtly different executables that were compiled from the same source code. Also, having binaries built with different cross-compilers raises the question of which flavour of readelf or objdump to use? I started thinking about a simple solution that could be automated and didn't require a $ 7,000-a-year software license.
+This suite of tools was inspired by a problem I encountered (FUN FACT #4) while comparing two subtly different executables that were compiled from the same source code. Also, having binaries built with different cross-compilers raises the question of which flavour of readelf or objdump to use? I started thinking about a simple solution that could be automated and didn't require a $ 7,000-a-year software license.
 
 These problems are solved by [READ MORE...](https://github.com/z0mb13w4r/objtools):
 
 1. The **Heuristic Assembly Language Analysis Engine (HALAE)**, which converts x86-64, ARM, MIPS or RISC-V assembly language into an Intermediate Language (IL) for comparison and analysis.
 2. Scripts to deploy **REMnux: A Linux Toolkit for Malware Analysis** and upgrade with my favourite tools that I use for vulnerability security research and malware analsis.
-3. Scripts to automate **Privilege Escalation**.
-4. Scripts to automate **Firmware Analysis**.
-5. Scripts and plugins to automate **Network Analysis**.
-6. Scripts to automate **Malware Analysis**.
+3. Scripts and tools to automate **Privilege Escalation**.
+4. Scripts and tools to automate **Firmware Analysis**.
+5. Scripts and tools to automate **Malware Analysis**.
+6. Scripts and plugins to automate **Network Analysis**.
 7. **REMnux Handbook** and **IoT Handbook**.
 
 ### [malware-samples](https://github.com/z0mb13w4r/malware-samples)
