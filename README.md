@@ -23,9 +23,11 @@ This suite of tools was inspired by a problem I encountered while comparing two 
 These problems are solved by [READ MORE...](https://github.com/z0mb13w4r/objtools):
 
 1. The **Heuristic Assembly Language Analysis Engine (HALAE)**, which converts x86-64, ARM, MIPS or RISC-V assembly language into an Intermediate Language (IL) for comparison and analysis.
-2. Tools that deploy **REMnux: A Linux Toolkit for Malware Analysis** and upgrade with my favourite tools that I use for vulnerability security research and malware analsis.
-3. Tools that automate **Privilege Escalation**.
-4. Tools that automate **Firmware Analysis**.
+2. Scripts to deploy **REMnux: A Linux Toolkit for Malware Analysis** and upgrade with my favourite tools that I use for vulnerability security research and malware analsis.
+3. Scripts to automate **Privilege Escalation**.
+4. Scripts to automate **Firmware Analysis**.
+5. Scripts and plugins to automate **Network Analysis**.
+6. Scripts to automate **Malware Analysis**.
 
 ### [malware-samples](https://github.com/z0mb13w4r/malware-samples)
 
