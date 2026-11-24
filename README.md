@@ -28,6 +28,7 @@ These problems are solved by [READ MORE...](https://github.com/z0mb13w4r/objtool
 4. Scripts to automate **Firmware Analysis**.
 5. Scripts and plugins to automate **Network Analysis**.
 6. Scripts to automate **Malware Analysis**.
+7. **REMnux Handbook** and **IoT Handbook**.
 
 ### [malware-samples](https://github.com/z0mb13w4r/malware-samples)
 
