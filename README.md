@@ -5,7 +5,7 @@ I'm a vulnerability security researcher and embedded software engineer who spend
 FUN FACT #1: I'm z0mb13w4r [zom-bee wawr].  
 FUN FACT #2: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!  
 FUN FACT #3: The Lord of the Rings is my favourite books and movie trilogy.  
-FUN FACT #4: At previous job I the luck and privilege to vulnerability security research on the software that would run inside a nuclear reactor.
+FUN FACT #4: At one of my previous jobs I had the luck and privilege to perform vulnerability security research on the software that would run inside a nuclear reactor.
 
 [Sign up now for my free security reports, advice, important news and find out what I wish they taught me in college!](https://mailchi.mp/uber-techie.co.uk/github-newsletter)
 
