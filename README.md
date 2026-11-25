@@ -5,7 +5,7 @@ I'm a vulnerability security researcher and embedded software engineer who spend
 FUN FACT #1: I'm z0mb13w4r [zom-bee wawr].  
 FUN FACT #2: I'm on the [TryHackMe](https://tryhackme.com/p/z0mb13w4r) UK Wall of Fame!  
 FUN FACT #3: The Lord of the Rings is my favourite books and movie trilogy.  
-FUN FACT #4: At one of my previous jobs I had the luck and privilege to perform vulnerability security research on the software that would run inside a nuclear reactor.
+FUN FACT #4: At one of my previous jobs, I had the luck and privilege to do vulnerability security research on software that would run inside a nuclear reactor.
 
 [Sign up now for my free security reports, advice, important news and find out what I wish they taught me in college!](https://mailchi.mp/uber-techie.co.uk/github-newsletter)
 
@@ -24,7 +24,7 @@ This suite of tools was inspired by a problem I encountered (FUN FACT #4) while 
 These problems are solved by [READ MORE...](https://github.com/z0mb13w4r/objtools):
 
 1. The **Heuristic Assembly Language Analysis Engine (HALAE)**, which converts x86-64, ARM, MIPS or RISC-V assembly language into an Intermediate Language (IL) for comparison and analysis.
-2. Scripts to deploy **REMnux: A Linux Toolkit for Malware Analysis** and upgrade with my favourite tools that I use for vulnerability security research and malware analsis.
+2. Scripts to deploy **REMnux: A Linux Toolkit for Malware Analysis** and upgrade it with my favourite tools that I use for vulnerability security research and malware analysis.
 3. Scripts and tools to automate **Privilege Escalation**.
 4. Scripts and tools to automate **Firmware Analysis**.
 5. Scripts and tools to automate **Malware Analysis**.
